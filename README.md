@@ -16,13 +16,13 @@ Cleaned data was downloaded onto local storage and then connected a MySQL workbe
 
 ## Statistical Factors From Prediction Model:
 -	Our attrition prediction model identified several statistically significant risk factors that correlate strongly with higher likelihood of employee turnover
-- Frequent Overtime 38% higher risk
-- Low Job Involvement 32% higher risk
-- Younger Age (<30) 27% higher risk
-- Single Marital Status 25% higher risk
-- Few Years with Current Manager 22% higher risk
-- No Recent Promotion 18% higher risk
-- Multiple Previous Employers 16% higher risk
+- Frequent Overtime (38% higher risk)
+- Low Job Involvement (32% higher risk)
+- Younger Age who are less than 30 years (27% higher risk)
+- Single Marital Status (25% higher risk)
+- Few Years with Current Manager (22% higher risk)
+- No Recent Promotion (18% higher risk)
+- Multiple Previous Employers (16% higher risk)
 - (All percentages scaled to a 100% model weight benchmark.)
 
 ## Attrition Analysis Dashboard
